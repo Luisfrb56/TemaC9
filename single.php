@@ -9,7 +9,7 @@
  * @since 1.0
  * @version 1.0
  */
-
+/*Pequeña modificacion de nuestro single, antes del loop como h1*/
 get_header(); ?>
 
 <div class="wrap">
