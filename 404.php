@@ -9,7 +9,7 @@
  * @since 1.0
  * @version 1.0
  */
-
+/*Error 404 modificado por nosotros, con imagen y nuevo texto*/
 get_header(); ?>
 
 <div class="wrap">
