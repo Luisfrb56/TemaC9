@@ -34,6 +34,7 @@ get_header(); ?>
 		<main id="main" class="site-main" role="main">
 	
 			<?php
+			/*Creacion del loop para toda la pagina*/
 			if ( have_posts() ) :
 		
 				/* Start the Loop */
